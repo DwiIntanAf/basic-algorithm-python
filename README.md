@@ -1,2 +1,2 @@
 # basic-algorithm-python
-Algorithm and Data Structures Class
+Algorithm and Data Structures I Class
